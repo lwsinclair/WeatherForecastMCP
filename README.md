@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/bichugeorge-weatherforecastmcp-badge.png)](https://mseep.ai/app/bichugeorge-weatherforecastmcp)
+
 # WeatherForecastMCP
 
 # 🌦️ Weather Forecast MCP
